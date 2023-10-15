@@ -1,0 +1,51 @@
+@media(width > 1439px){
+    .reli{
+        color: #4D4F62;
+        font-size: 36px;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.25px;
+    }
+    .power{
+        font-size: 36px;
+        letter-spacing: 0.25px;
+    }
+    .our{
+        width: 540px;
+    }
+    .boxes{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 30px;
+        margin-top: 64px;
+    }
+    .box4{
+        margin-top: 76px;
+    }
+    .tl2{
+        margin-top: 30px;
+    }
+    .b1{
+        width: 350px;
+        height: 250px;
+    }
+    .tl, .tl1, .tl2, .tl3{
+        width: 350px;
+        height: 4px;
+    }
+    .supervisor{
+        margin-left: 32px;
+        margin-top: 32px;
+    }
+    .monitors{
+        margin-top: 6px;
+        width: 286px;
+        margin-left: 32px;
+    }
+    .search{
+        width: 64px;
+        height: 64px;
+        margin-left: 254px;
+        margin-top: 40px;
+    }
+}
